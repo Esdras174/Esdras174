@@ -45,18 +45,6 @@ Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. 
 
 ---
 
-## 🚀 **Projetos em Destaque**
-
-### 🍔 [Sistema de Gestão Comercial](https://github.com/Esdras174/crud_lanchonete)
-> **Sistema completo de gestão para lanchonetes com otimizações avançadas**
-
-**Stack:** Python Flask + React + SQLite  
-**Destaques:**
-- ⚡ **60% mais rápido** que sistemas tradicionais
-- 📊 Views SQL otimizadas e stored procedures
-- 🏆 Relatório de vendedores com ranking
-- 👤 Portal do cliente completo
-- 🎯 Sistema de alertas de estoque
 
 ```python
 # Exemplo de otimização implementada
