@@ -46,13 +46,6 @@ Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. 
 ---
 
 
-```python
-# Exemplo de otimização implementada
-def relatorio_otimizado():
-    """View otimizada com 60% menos tempo de resposta"""
-    return procedures.obter_vendas_detalhadas()
-```
-
 ---
 
 ## 📊 **Estatísticas GitHub**
