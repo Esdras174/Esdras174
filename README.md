@@ -45,9 +45,6 @@ Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. 
 
 ---
 
-
----
-
 ## 📊 **Estatísticas GitHub**
 
 <div align="center">
