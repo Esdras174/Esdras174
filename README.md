@@ -52,9 +52,9 @@ Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. 
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60)
 
 </div>
 
