@@ -1,15 +1,23 @@
-# 👋 Olá! Eu sou Esdras Lucas
+<h1 align="center">👋 Olá, eu sou <span style="color:#70a5fd;">Esdras Lucas</span></h1>
 
-<div align="center">
-  
-### 🚀 Desenvolvedor Full-Stack | Python & React Enthusiast
+<h3 align="center">💻 Desenvolvedor Full-Stack | Python • React • Node.js</h3>
 
-*Transformando ideias em soluções digitais eficientes*
+<p align="center">
+🚀 Transformando ideias em <strong>soluções digitais eficientes</strong><br>
+🎯 Focado em <strong>performance, arquitetura e experiência do usuário</strong>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Esdras174?label=Followers&style=social)](https://github.com/Esdras174)
-[![GitHub stars](https://img.shields.io/github/stars/Esdras174?label=Stars&style=social)](https://github.com/Esdras174)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Esdras174" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:esdraslucas0707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/esdraslucas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
