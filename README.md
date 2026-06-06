@@ -142,7 +142,7 @@ class EsdrasLucas:
 
 **⭐ Se meus projetos foram úteis, deixe uma estrela!**
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsdras174&count_bg=%2370A5FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+![Visitor Count](https://profile-counter.glitch.me/Esdras174/count.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer)
 
