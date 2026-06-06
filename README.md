@@ -1,138 +1,136 @@
-<h1 align="center">👋 Olá, eu sou <span style="color:#70a5fd;">Esdras Lucas</span></h1>
+<div align="center">
 
-<h3 align="center">💻 Desenvolvedor Full-Stack | Python • React • Node.js</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+Esdras+Lucas+👋;Full-Stack+Developer+💻;Python+•+React+•+Node.js+⚡" alt="Typing SVG"/>
 
-<p align="center">
+<p>
 🚀 Transformando ideias em <strong>soluções digitais eficientes</strong><br>
 🎯 Focado em <strong>performance, arquitetura e experiência do usuário</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Esdras174" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:esdraslucas0707@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎯 **Sobre Mim**
-
-Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. Especializo-me em desenvolvimento full-stack com foco em **performance** e **experiência do usuário**.
-
-- 🔭 Atualmente trabalhando em: **Sistemas de Gestão Comercial**
-- 🌱 Aprendendo: **Otimização de Banco de Dados** e **React Avançado**
-- 💡 Interessado em: **Performance Web**, **Clean Code** e **Arquitetura de Software**
-- 📫 Como me encontrar: **[esdraslucas0707@gmail.com ]**
-
----
-
-## 🛠️ **Stack Tecnológica**
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### **Backend**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
----
-
-## 📊 **Estatísticas GitHub**
-
-<div align="center">
-
-<!-- Estatísticas principais -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60"/>
-
-<!-- Linguagens mais usadas -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"/>
-
-<!-- Sequência de commits (streak) -->
-<img height="160em" src="https://streak-stats.demolab.com?user=Esdras174&theme=tokyonight&hide_border=true&cache_seconds=60"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esdras174)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esdraslucas0707@gmail.com)
 
 </div>
 
 ---
 
----
+## 🎯 Sobre Mim
 
-## 🎯 **Especialidades**
+Desenvolvedor apaixonado por criar sistemas eficientes e interfaces intuitivas. Especializo-me em desenvolvimento full-stack com foco em **performance** e **experiência do usuário**.
 
 ```python
 class EsdrasLucas:
     def __init__(self):
-        self.name = "Esdras Lucas"
-        self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
-        self.frameworks = ["Flask", "React"]
-        self.databases = ["SQLite", "MySQL", "PostgreSQL"]
-        self.focus = ["Performance", "Clean Code", "User Experience"]
-    
+        self.name        = "Esdras Lucas"
+        self.role        = "Full-Stack Developer"
+        self.languages   = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
+        self.frameworks  = ["Flask", "React"]
+        self.databases   = ["SQLite", "MySQL", "PostgreSQL"]
+        self.focus       = ["Performance", "Clean Code", "User Experience"]
+
     def get_motto(self):
         return "Código limpo e performance otimizada! ⚡"
 ```
 
-### **🔥 Pontos Fortes**
-- **🎯 Performance**: Otimização de queries e views SQL avançadas
-- **🏗️ Arquitetura**: Desenvolvimento de sistemas escaláveis
-- **🎨 UI/UX**: Interfaces modernas e responsivas
-- **🔧 Problem Solving**: Soluções criativas para desafios complexos
-- **📚 Clean Code**: Código limpo e bem documentado
+- 🔭 Trabalhando em: **Sistemas de Gestão Comercial**
+- 🌱 Aprendendo: **Otimização de Banco de Dados** e **React Avançado**
+- 💡 Interessado em: **Performance Web**, **Clean Code** e **Arquitetura de Software**
+- 📫 Contato: **esdraslucas0707@gmail.com**
 
 ---
 
-## 📈 **Experiência em Projetos**
-
-### **🎯 Projetos Realizados**
-- ✅ **Sistemas CRUD** com interface moderna
-- ✅ **APIs REST** otimizadas com Flask
-- ✅ **Dashboards** interativos com React
-- ✅ **Banco de Dados** com views e procedures
-- ✅ **Sistemas de Relatórios** com performance avançada
-
-### **🚀 Melhorias de Performance Aplicadas**
-| Técnica | Resultado | Impacto |
-|---------|-----------|---------|
-| Views SQL Otimizadas | 60% mais rápido | ⚡ High |
-| Stored Procedures | Transações atômicas | 🛡️ High |
-| Cache Inteligente | 40% menos requests | 📈 Medium |
-| Query Optimization | 80% menos tempo | 🔥 High |
-
----
-
-## 🌟 **Diferencial Competitivo**
-
-> **"Não apenas desenvolvo sistemas, mas crio soluções otimizadas que fazem a diferença na performance e experiência do usuário."**
-
-### **💡 O que me destaca:**
-- 🎯 **Foco em Performance**: Sempre busco a melhor otimização possível
-- 🏗️ **Arquitetura Sólida**: Sistemas bem estruturados e escaláveis  
-- 📚 **Documentação**: Código sempre bem documentado e README profissional
-- 🔄 **Melhoria Contínua**: Constantemente aprendendo novas tecnologias
-- 🎨 **UX/UI**: Interface que realmente funciona para o usuário
-
----
-
-## 📞 **Vamos Conversar?**
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esdraslucas0707@gmail.com)
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esdras174&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔥 Pontos Fortes
+
+| Área | Descrição |
+|------|-----------|
+| 🎯 **Performance** | Otimização de queries e views SQL avançadas |
+| 🏗️ **Arquitetura** | Desenvolvimento de sistemas escaláveis |
+| 🎨 **UI/UX** | Interfaces modernas e responsivas |
+| 🔧 **Problem Solving** | Soluções criativas para desafios complexos |
+| 📚 **Clean Code** | Código limpo e bem documentado |
+
+---
+
+## 📈 Projetos & Resultados
+
+### ✅ Projetos Realizados
+- **Sistemas CRUD** com interface moderna e reativa
+- **APIs REST** otimizadas com Flask e documentação Swagger
+- **Dashboards** interativos com React e gráficos em tempo real
+- **Modelagem de Banco de Dados** com views e stored procedures
+- **Sistemas de Relatórios** com performance avançada e exportação
+
+### 🚀 Melhorias de Performance Aplicadas
+
+| Técnica | Resultado | Impacto |
+|---------|-----------|---------|
+| Views SQL Otimizadas | 60% mais rápido | ⚡ Alto |
+| Stored Procedures | Transações atômicas | 🛡️ Alto |
+| Cache Inteligente | 40% menos requests | 📈 Médio |
+| Query Optimization | 80% menos tempo de resposta | 🔥 Alto |
+
+---
+
+## 🌟 Diferencial Competitivo
+
+> *"Não apenas desenvolvo sistemas, mas crio soluções otimizadas que fazem a diferença na performance e experiência do usuário."*
+
+- 🎯 **Foco em Performance** — sempre busco a melhor otimização possível
+- 🏗️ **Arquitetura Sólida** — sistemas bem estruturados e escaláveis
+- 📚 **Documentação** — código sempre bem documentado e READMEs profissionais
+- 🔄 **Melhoria Contínua** — constantemente aprendendo novas tecnologias
+- 🎨 **UX/UI** — interface que realmente funciona para o usuário
+
+---
+
+## 📞 Vamos Conversar?
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/esdraslucas0707%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esdraslucas0707@gmail.com)
+[![GitHub](https://img.shields.io/badge/Esdras174-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esdras174)
 
 </div>
 
@@ -140,10 +138,10 @@ class EsdrasLucas:
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 **⭐ Se meus projetos foram úteis, deixe uma estrela!**
 
-![Profile views](https://komarev.com/ghpvc/?username=Esdras174&color=blue&style=flat-square)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsdras174&count_bg=%2370A5FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
 </div>
