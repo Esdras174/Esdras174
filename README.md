@@ -142,8 +142,6 @@ class EsdrasLucas:
 
 **⭐ Se meus projetos foram úteis, deixe uma estrela!**
 
-![GitHub followers](https://img.shields.io/github/followers/Esdras174?label=Seguidores&style=for-the-badge&color=70a5fd&labelColor=555555)
-![GitHub User's stars](https://img.shields.io/github/stars/Esdras174?label=Stars%20nos%20Projetos&style=for-the-badge&color=70a5fd&labelColor=555555)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer)
 
