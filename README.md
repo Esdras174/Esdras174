@@ -68,8 +68,8 @@ class EsdrasLucas:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esdras174&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esdras174&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -142,7 +142,8 @@ class EsdrasLucas:
 
 **⭐ Se meus projetos foram úteis, deixe uma estrela!**
 
-![Visitor Count](https://profile-counter.glitch.me/Esdras174/count.svg)
+![GitHub followers](https://img.shields.io/github/followers/Esdras174?label=Seguidores&style=for-the-badge&color=70a5fd&labelColor=555555)
+![GitHub User's stars](https://img.shields.io/github/stars/Esdras174?label=Stars%20nos%20Projetos&style=for-the-badge&color=70a5fd&labelColor=555555)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer)
 
