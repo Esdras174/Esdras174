@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+Esdras+Lucas+👋;Full-Stack+Developer+💻;Python+•+React+•+Node.js+⚡" alt="Typing SVG"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=180&section=header&text=Esdras%20Lucas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=18&descAlignY=60&animation=fadeIn)
 
 <p>
 🚀 Transformando ideias em <strong>soluções digitais eficientes</strong><br>
@@ -143,5 +143,7 @@ class EsdrasLucas:
 **⭐ Se meus projetos foram úteis, deixe uma estrela!**
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsdras174&count_bg=%2370A5FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer)
 
 </div>
